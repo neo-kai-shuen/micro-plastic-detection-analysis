@@ -22,7 +22,7 @@ Initial exploratory analysis using pairwise plots indicated that most features a
 #### Key results
 
 **Linear Models (L1/L2 Regularization & SVM):**
-* **Logistic regressio** achieved an accuracy of 95.1%, F1-score of 0.919 and ROC-AUC of 0.990.
+* **Logistic regression** achieved an accuracy of 95.1%, F1-score of 0.919 and ROC-AUC of 0.990.
 * **LASSO (L1)** achieved an accuracy of 80.3%, F1-score of 0.882, and ROC-AUC of 0.883.
 * **Ridge (L2)** improved slightly with 85.3% accuracy, F1-score of 0.909, and ROC-AUC of 0.870.
 * **SVM (linear kernel)** outperformed both, achieving 93.4% accuracy, F1-score of 0.960, and perfect ROC-AUC of 1.0.
